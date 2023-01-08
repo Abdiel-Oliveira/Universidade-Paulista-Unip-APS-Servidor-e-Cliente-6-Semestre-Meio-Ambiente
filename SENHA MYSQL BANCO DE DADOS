@@ -18,3 +18,22 @@ Depois digite a senha conforme você definiu no comando anterior.
 
 
 exemplo:P@ssw0rd
+
+
+
+connection name: localhost
+port: 3306
+senha: P@ssw0rd
+
+ligar o service
+service mysql start
+service mysql stop
+service mysql status
+
+ligar o servidor
+
+Ligar o servidor sudo systemctl start mysql
+
+Desligar o servidor sudo systemctl stop mysql
+
+Status do servidor sudo systemctl status mysql
