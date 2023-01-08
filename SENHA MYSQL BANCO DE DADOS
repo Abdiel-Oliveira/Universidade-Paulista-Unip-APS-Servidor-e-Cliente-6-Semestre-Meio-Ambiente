@@ -1,0 +1,20 @@
+tutorial: https://www.webmundi.com/banco-de-dados/mysql/como-instalar-mysql-mysql-workbench-no-linux/
+
+Video tutorial: https://www.youtube.com/watch?v=NkJwjy3LOd4
+
+Senha banco de dados mysql: P@ssw0rd
+
+
+
+instrução para acessar prompt do linux:
+
+Acessar o prompt do MySQL após alteração na forma de autenticação (plugin caching_sha2_password)
+
+
+sudo mysql -u root -p
+
+
+Depois digite a senha conforme você definiu no comando anterior.
+
+
+exemplo:P@ssw0rd
