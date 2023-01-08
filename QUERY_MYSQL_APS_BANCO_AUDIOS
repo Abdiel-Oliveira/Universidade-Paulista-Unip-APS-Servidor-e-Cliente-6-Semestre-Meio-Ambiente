@@ -1,0 +1,4 @@
+SELECT * FROM APS_BANCO.Audios;
+
+
+DROP TABLE Audios;
